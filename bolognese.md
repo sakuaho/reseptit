@@ -29,3 +29,7 @@ Määrä | Ainekset
 10. Hauduta matalalla lämmöllä liedellä, tai uunissa alalämmöllä 120C&deg; kolme tuntia, välillä sekoittaen.
 11. Mausta suolalla
 
+## Vinkkejä
+* Tarjoile Barilla no5:n kanssa, raasta päälle parmesania ja rouhi päälle tuoretta mustapippuria, ja liraus hyvää oliiviöljyä
+* Pysyy hyvänä (tai jopa paranee) pakastettaessa. 
+
