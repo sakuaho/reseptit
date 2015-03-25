@@ -3,7 +3,7 @@
 ## Ainekset
 Määrä | Ainekset
 ----:|:----
-|Voita paistamiseen
+ |Voita paistamiseen
 4kpl|Karitsanpotkia
 500g|Sipulia
 200g|Porkkanaa
