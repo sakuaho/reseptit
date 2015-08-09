@@ -18,7 +18,7 @@ Määrä | Ainekset
 5. Putsaa varsisellerit ja leikkaa pieniksi kuutioiksi, lisää kattilaan sitä mukaan kun saat leikattua.
 6. Lisää sekaan tomaattipyree ja suola.
 7. Laita uuni alalämmölle noin 100&deg; ja laita kattila uuniin.
-8. Anna tekeytyä uunissa muutaman tunnin.
+8. Anna tekeytyä uunissa muutaman tunnin. Sekoita tasaiseksi tahnaksi, ja käytä tarvittaessa perunasurvinta jos esim. porkkana ei ole vielä soseutunut.
 
 ## Vinkkejä
 * Kannattaa pakastaa esim. minigrip-pusseissa ohuina levyinä, joista saa lohkaistua sopivia paloja.
