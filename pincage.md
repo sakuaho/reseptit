@@ -15,7 +15,7 @@ Määrä | Ainekset
 2. Leikkaa sipuli ohuiksi puolirenkaiksi ja lisää sipulia kattilaan sitä mukaan kuin saat leikattua. Kuullottele sipulia matalalla lämmöllä.
 3. Laita uuni lämpenemään grillivastuksella täydelle lämmölle.
 4. Kuori porkkanat ja leikkaa ne pituussuunnassa muutamaan osaan, ja noin 10 cm pätkiksi. Pyörittele öljyssä ja grillaa uunissa, kunnes pinta alkaa ruskistua. Lisää porkkanat kattilaan.
-5. Putsaa varsisellerit ja leikkaa pieniksi kuutioiksi, lisää kattilaan sitä mukaan kun valmistuu.
+5. Putsaa varsisellerit ja leikkaa pieniksi kuutioiksi, lisää kattilaan sitä mukaan kun saat leikattua.
 6. Lisää sekaan tomaattipyree ja suola.
 7. Laita uuni alalämmölle noin 100&deg; ja laita kattila uuniin.
 8. Anna tekeytyä uunissa muutaman tunnin.
